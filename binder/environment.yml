@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - cartopy
-  - pip
+  - pip:
     - json2html
     - xmltodict
     - netCDF4
