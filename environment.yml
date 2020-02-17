@@ -10,6 +10,6 @@ dependencies:
   - xarray
   - requests
   - pandas
-  - json2html
-  - xmltodict
-  - netCDF4
+  - pip:
+      - json2html
+      - xmltodict
